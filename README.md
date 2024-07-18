@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jhay
-- 👀 I’m interested in building a website
+- 👀 I’m interested in developing a website
 - 🌱 I’m currently learning HTML, CSS, and javaScript
 - 💞️ I’m expecting to learn from this platform
 - 📫 How to reach me ...
